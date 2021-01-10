@@ -6,6 +6,6 @@ In order to perform its core function, ReadingBar monitors the position of your 
 
 The screen tint function measures the size, position, and names of your screens in order to place a coloured overlay above them and give you a reference to identify which screens you wish to tint. 
 
-Thse data are gathered at the moment they are needed, then immediately relinquished. ReadingBar does not save this information and has no way of knowing anything else about your screens or their contents.
+These data are gathered at the moment they are needed, then immediately relinquished. ReadingBar does not save this information and has no way of knowing anything else about your screens or their contents.
 
 ReadingBar's preferences file is stored locally on your machine and you may delete it at any time.
