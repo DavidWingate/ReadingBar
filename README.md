@@ -21,7 +21,7 @@ This enables you to spend more time reading before your eyes need a rest. The ti
 
 In the details...
 
-- The menu bar icon indicates whether ReadingBar or screen tint are on
+- The menu bar icon indicates whether ReadingBar or Screen Tint are on
 - The icon can be hidden if your menu bar is short on space
 - Only the content of your screen is tinted, menus and alerts remain clear
 - Choose from a selection of system colours that adapt along with MacOS
