@@ -6,6 +6,8 @@
 
 Using a time-honoured technique, simple and effective, ReadingBar enables you to read more and read faster, while reducing eye strain and visual stress.
 
+https://www.davidwingate.dev/readingbar
+
 ## ReadingBar's main features include:
 
 - Reading Bar: attached to your cursor, in any colour, opacity, and size
