@@ -29,3 +29,14 @@ Additional features:
 - Only the content of your screen is tinted, menus and alerts remain clear.
 - Use special system and developer colours to auto-switch with dark mode.
 - Also compatible with old Macs, all the way back to High Sierra (10.13).
+
+What's New in This Version:
+
+- Version 2.0 has been completely re-written to be more intuitive and provide more features.
+- Added additional styles to choose from: bar, highlight, and spotlight.
+- Added the ability to offset the position of the reading bar relative to the mouse cursor.
+- Added a new draggable button to quickly set the size and offset of the reading bar
+- Added a new intuitive screen tint selector for multiple external displays.
+- Updated the settings window to complement the new macOS style.
+- Fixed a bug that caused the menu bar item to leave a gap when hidden.
+- Plus many other small improvements in performance and usability.
